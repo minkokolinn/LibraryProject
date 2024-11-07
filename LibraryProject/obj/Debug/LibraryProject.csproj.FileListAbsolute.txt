@@ -1,0 +1,15 @@
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojResolveAssemblyReference.cache
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.frmMain.resources
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.Cache
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.frmMember.resources
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.frmBookType.resources
+D:\KMD-NCC\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.frmBook.resources
+D:\KMD-NCC\L4DC-125\DDOOCP\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\KMD-NCC\L4DC-125\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\KMD-NCC\L4DC-125\DDOOCP\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
